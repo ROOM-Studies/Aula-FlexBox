@@ -12,9 +12,7 @@ Projecto desenvolvido no módulo de CSS do curso de programação web da Room
 
 
 <div align="center">
-
-  ![_C__Users_USER_Documents_00%20Enoque%20Tembe_Gallery_Room_aulas_Aula-Flexbox_index html (1)](https://user-images.githubusercontent.com/98264322/227426749-222ff715-4fd2-4191-8058-9ff7eb1368b5.png)
-
+  <img heght="600" src="https://user-images.githubusercontent.com/98264322/229160562-3817e4ee-e56b-4009-8570-9788d99d3389.png"/>
 </div>
 
 <br> 
@@ -36,6 +34,6 @@ Este  projecto foi criado na aula de Flexbox com o intuito de ajudar os alunos a
 <br> 
 
 ## 🔖 Layout
-Você pode acessar o layout deste projecto através [deste link](https://www.figma.com/file/khO68zdq6cHiTO3NgvCskf/Aula-FlexBox?node-id=0-1&t=SagHtx7BXOZKg3U6-0). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
+Você pode acessar o layout deste projecto através [deste link](https://www.figma.com/community/file/1223511098817808329/Room-Page). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
 
 
